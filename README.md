@@ -15,8 +15,7 @@ Abhi learning phase main hoon, lekin roz nayi cheezein seekh raha hoon.
 Mujhe modern development aur AI tools main kaam ka shoq hai.
 
 ## 📫 Contact
-- Email: your-email@example.com
-- LinkedIn / Portfolio: [add link if you have one]
+- Email: awaisali532193@gmail.com
 - Open to freelance and internship opportunities!
 
 🙏 Shukriya for visiting my GitHub!
